@@ -1,0 +1,9 @@
+/*Style of header row*/
+.header {
+    background-color: black;
+    padding: 15px;
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
