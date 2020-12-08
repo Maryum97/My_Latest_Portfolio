@@ -11,29 +11,34 @@
 </head>
 <body>
  
-    <!--This is the header row of the page-->
+    <!--This is the header row of the page: the "navbar"-->
     <header>
-        <!--page logo-->
-        <div class = "header">
-            <h1>Maryum<b>Bokhari</b></h1>
-
-            <!--hyperlinks for webpage-->
-            <div>
-                <ul>
-                    <li>
-                        <a href = "index.html">About</a>
-                    </li>
-
-                    <li>
-                        <a href = "contact.html">Contact</a>
-                    </li>
-
-                    <li>
-                        <a href = "portfolio.html">Portfolio</a>
-                    </li>
+        <nav class="navbar navbar-expand-sm navbar-light bg-light">
+            <div class="container-fluid">
+              
+                <!--This is the logo of the page-->
+                <a class="navbar-brand">Maryum<b>Bokhari</b></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                
+                <!--These are the hyperlinks on the navbar-->
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="portfolio.html">Porfolio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                  </li>
                 </ul>
+              </div>
+              
             </div>
-        </div>
+          </nav>
     </header>
 
     <!--This is the body "contained" between the header and the footer-->
