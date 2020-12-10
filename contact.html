@@ -46,22 +46,35 @@
 
     <!--This is the body "contained" between the header and the footer-->
         <div class = "container-sm">
-          <div id = "textbox" class = "p-3 border bg-light">
-          <!--This is Row-1 in the body of the page; the page heading-->
+          <div class = "row"><br><br></div>
+          <div id = "textbox" class = "p-4 border bg-light">
+          <!--This is Row-1 in the gutter; the page heading-->
                   <h3>Contact Me</h3>
                   <!--This is a new sub-row within Row-1-->
                   <div class = "row">
-                      <!--This is Column-1 of new sub-row-->
-                      <div class = "col-3">
-                          XXX
-                      </div>
-                      <!--This is Column-2 of new sub-row-->
-                      <div class = "col-9">
-                          XXX
+                          <form>
+                            <!--This is the label input for 'name'-->
+                            <div class="mb-3">
+                              <label for="exampleInputName" class="form-label">Full Name</label>
+                              <input type="text" class="form-control" id="exampleInputName" aria-describedby="nameHelp">
+                            </div>
+                            <!--This is the label input for 'email address'-->
+                            <div class="mb-3"> 
+                              <label for="exampleInputEmail1" class="form-label">Email address</label>
+                              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                              <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                            </div>
+                            <!--This is the label imput for 'message'-->
+                            <div class="mb-3">
+                              <label for="exampleInputMessage" class="form-label">Message</label>
+                              <input type="text" class="form-control" id="exampleInputMessage" aria-describedby="messageHelp">
+                            </div>
+                            <!--This is the submit button-->
+                            <button type="button" class="btn btn-primary">Submit</button>
+                          </form>
                       </div>
                   </div>
-            </div>
-        </div> 
+                </div>
 
     <!--This is the footer row of the page-->
     <footer>
