@@ -4,6 +4,9 @@ body {
 
 h3 {
     color: rgb(37, 137, 150);
+    font-size: 30pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
 footer {
