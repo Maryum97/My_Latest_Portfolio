@@ -17,6 +17,9 @@ footer {
     background-color: rgb(4, 43, 78);
     color: white;
     text-align: center;
+    height: 40px;
+    background-repeat: repeat-x;
+    background-position: top;
 }
 
 .responsive {
