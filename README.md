@@ -26,7 +26,15 @@ The files submitted for this homework include three html files and one css file 
   - A body, with variable elements depending on the page requirements;
   - A footer, with the Copyright text and a link to my social media
 
-<i>BOOTSTRAP:</i>
+<i>CSS & JAVASCRIPT:</i>
+
+Most of the styling and some animation aspects for the elements in the html were styled using <b>Bootstrap</b>, such as for the following elements:
+
+ - The navbar (header);
+ - The gutter that contains the body contents, such as text, images, and labels;
+ - The toggle in the navbar, using JS from Bootstrap;
+ - The responsiveness of the images;
+ - The labels on the Contact page
 
 
 <b>SUMMARY:</b>
