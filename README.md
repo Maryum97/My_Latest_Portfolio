@@ -39,4 +39,6 @@ Most of the styling and some animation aspects for the elements in the html were
  <b>THE 'MY PORTFOLIO@ WEBSITE:</b>
 Finally, after applying the styling and semantics to the code, the final website was finally deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
 
+<img src:"Assets\Application_Screenshot.PNG">
+
 <b>SUMMARY:</b>
