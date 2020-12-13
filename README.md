@@ -16,7 +16,7 @@ The files submitted for this homework include three html files and one css file 
 3. <b>Contact (contact.html)</b>
     Lastly, this page demonstrates a form for the viewer of my page, in case they wish to get in contact with me. The viewer must fill out the form with their full name and email address, and then submit the form by clicking on the 'Submit' button once.
 
- <b>HTML:</b>
+ <i>HTML:</i>
  
  For all the three pages, the html is relatively similar, because the three html files share the following aspects:
 
@@ -26,4 +26,4 @@ The files submitted for this homework include three html files and one css file 
   - A body, with variable elements depending on the page requirements;
   - A footer, with the Copyright text and a link to my social media
 
-<b>BOOTSTRAP:</b>
+<i>BOOTSTRAP:</i>
