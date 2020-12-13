@@ -21,3 +21,7 @@ footer {
     background-repeat: repeat-x;
     background-position: top;
 }
+
+figcaption {
+    text-align: center
+}
