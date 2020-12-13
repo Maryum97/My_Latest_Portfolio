@@ -5,7 +5,7 @@
 <b>DESCRIPTION:</b>
 This repository contains the second homework assignment for the Coding Bootcamp conducted by the University of Birmingham. This homework assignment was about creating a webpage from scratch, featuring the creator's portfolio and deploying it as a reponsive webpage.
 
-The files submitted for this homework include three html files and one css file (and a readme file for this description). The html files are described below:
+The files submitted for this homework include three HTML files and one css file (and a readme file for this description). The html files are described below:
 
 1. <b>About Page (index.html):</b>
     This page is all about myself, Maryum Bokhari, the creator of the website. The page describes my life, achievements, and educational background, with a display profile image.
@@ -37,8 +37,13 @@ Most of the styling and some animation aspects for the elements in the html were
  - The labels on the Contact page
 
 <b>THE 'MY PORTFOLIO' WEBSITE:</b>
-Finally, after applying the styling and semantics to the code, the final website was finally deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
+Finally, after applying the styling and semantics to the code, the final website was deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
 
+![Application_Screenshot](https://user-images.githubusercontent.com/73832871/102022360-45bb2b80-3d7e-11eb-9160-440f17ca966e.PNG)
 
+After deploying the website, I used the following link to validate the HTML code used to create this website, and I found no errors in the code for the link of my website that I provided here:
+
+<a href = "https://validator.w3.org/">W3C Markup Valiadtion Service</a>
 
 <b>SUMMARY:</b>
+In a nutshell, I was able to create, update, style and deploy a website of my own from scratch, with the help of all the resources made available to me by the course and by the very helpful teaching staff.
