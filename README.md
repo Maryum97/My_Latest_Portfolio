@@ -43,9 +43,9 @@ Finally, after applying the styling and semantics to the code, the final website
 
 After deploying the website, I used the following link to validate the HTML of my website, which then stated that my code is 100% error-free:
 
-<a href = "https://validator.w3.org/">W3C Markup Validation Service</a>
+<a href = "https://validator.w3.org/" terget = "_blank">W3C Markup Validation Service</a>
 
 <b>SUMMARY:</b>
 In a nutshell, I was able to create, update, style and deploy a website of my own from scratch, with the help of all the resources made available to me by the course and by the very helpful teaching staff. My website is now available online, and can be accessed using the URL below:
 
-<a href "https://maryum97.github.io/Unit_02_CSS_Bootstrap/index.html">My Porfolio</a>
+<a href = "https://maryum97.github.io/Unit_02_CSS_Bootstrap/index.html" target = "_blank">My Porfolio</a>
