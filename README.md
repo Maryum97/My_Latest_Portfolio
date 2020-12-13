@@ -27,3 +27,6 @@ The files submitted for this homework include three html files and one css file 
   - A footer, with the Copyright text and a link to my social media
 
 <i>BOOTSTRAP:</i>
+
+
+<b>SUMMARY:</b>
