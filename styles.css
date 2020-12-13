@@ -9,6 +9,11 @@ h1 {
     font-weight: 700;
 }
 
+h2 {
+    font-size: 16pt;
+    font-weight: 500;
+}
+
 footer {
     position: fixed;
     left: 0;
