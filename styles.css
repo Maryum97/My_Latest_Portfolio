@@ -18,15 +18,28 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
+    padding: 0.6%;
     width: 100%;
-    background-color: rgb(2, 133, 138);
+    background-color: rgb(13, 170, 175);
     color: white;
     text-align: center;
-    height: 40px;
+    height: 60px;
     background-repeat: repeat-x;
     background-position: top;
 }
 
 figcaption {
     text-align: center
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: red;
 }
