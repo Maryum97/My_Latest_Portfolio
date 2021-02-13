@@ -55,3 +55,7 @@ a:active {
 .fab:active {
     color: red;
 }
+
+.card-title, .card-text, .phone, .email {
+    text-align: center;
+}
