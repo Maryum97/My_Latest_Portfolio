@@ -14,30 +14,10 @@ The pages created for this homework include three described below:
     This page is an illustration of different images regarding my background, my educational institutions, and my hobbies and interests, with brief descriptions of each image. It is just to describe my personality more up-close, outside my curriculum and employability aspects.
 
 3. <b>Contact (contact.html)</b>
-    Lastly, this page demonstrates a form for the viewer of my page, in case they wish to get in contact with me. The viewer must fill out the form with their full name and email address, and then submit the form by clicking on the 'Submit' button once.
-
- <i>HTML:</i>
- 
- For all the three pages, the html is relatively similar, because the three html files share the following aspects:
-
-  - The links to an external stylesheet (CSS), Bootstrap CSS, and Bootstrap JavaScript;
-  - A navbar, with a logo, responsive navlinks and a responsive toggle, all coded within the header semantic tag;
-  - Responsive images, and/or labels;
-  - A body, with variable elements depending on the page requirements;
-  - A footer, with the Copyright text and a link to my social media
-
-<i>CSS & JAVASCRIPT:</i>
-
-Most of the styling and some animation aspects for the elements in the html were styled using <b>Bootstrap</b>, such as for the following elements:
-
- - The navbar (header);
- - The gutter that contains the body contents, such as text, images, and labels;
- - The toggle in the navbar, using JS from Bootstrap;
- - The responsiveness of the images;
- - The labels on the Contact page
+    Lastly, this page demonstrates a form for the viewer of my page, in case they wish to get in contact with me. The viewer must fill out the form with their full name and email address, and then submit the form by clicking on the 'Submit' button once. In case of any inconvenience, I have added some of my contact information underneath the form.
 
 <b>THE 'MY PORTFOLIO' WEBSITE:</b>
-Finally, after applying the styling and semantics to the code, the final website was finally deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
+Finally, after applying the styling and semantics to the code, the final website has finally been deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
 
 ![Application_Screenshot](https://user-images.githubusercontent.com/73832871/102022360-45bb2b80-3d7e-11eb-9160-440f17ca966e.PNG)
 
