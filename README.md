@@ -32,4 +32,4 @@ In a nutshell, I was able to create, update, style and deploy a website of my ow
 
 For further information, and for further convenience, I have included the link to my CV here in this README.md file:
 
-<a href = "https://drive.google.com/file/d/1XKfjrojBIY4aSc7Dhf0ZCh0_-v2kiVAI/view?usp=sharing" target = "_blank"></a>
+<a href = "https://drive.google.com/file/d/1XKfjrojBIY4aSc7Dhf0ZCh0_-v2kiVAI/view?usp=sharing" target = "_blank">My CV</a>
