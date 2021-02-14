@@ -16,6 +16,15 @@ The pages created for this homework include three described below:
 3. <b>Contact (contact.html)</b>
     Lastly, this page demonstrates a form for the viewer of my page, in case they wish to get in contact with me. The viewer must fill out the form with their full name and email address, and then submit the form by clicking on the 'Submit' button once. In case of any inconvenience, I have added some of my contact information underneath the form.
 
+The page was successfully created using the following resources and programming tools:
+
+1. HTML/CSS
+2. Bootstrap
+3. Font Awesome
+4. W3Schools
+5. StackOverflow
+6. W3C Markup Validation Service
+
 <b>THE 'MY PORTFOLIO' WEBSITE:</b>
 Finally, after applying the styling and semantics to the code, the final website has finally been deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
 
