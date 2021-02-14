@@ -30,7 +30,7 @@ Finally, after applying the styling and semantics to the code, the final website
 
 ![My-Portfolio-Page](https://user-images.githubusercontent.com/73832871/107879890-6cf3bd80-6ed3-11eb-8fad-1a3a674eed3b.png)
 
-After deploying the website, I used the following link to validate the HTML of my website, which then stated that my code is 100% error-free:
+After deploying the website, I used the following link to validate the HTML of my website, which then stated that my code is nearly 100% error-free:
 
 <a href = "https://validator.w3.org/" target = "_blank">W3C Markup Validation Service</a>
 
