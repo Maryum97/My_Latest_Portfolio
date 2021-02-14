@@ -19,13 +19,17 @@ The pages created for this homework include three described below:
 <b>THE 'MY PORTFOLIO' WEBSITE:</b>
 Finally, after applying the styling and semantics to the code, the final website has finally been deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
 
-![Application_Screenshot](https://user-images.githubusercontent.com/73832871/102022360-45bb2b80-3d7e-11eb-9160-440f17ca966e.PNG)
+![My-Portfolio-Page](https://user-images.githubusercontent.com/73832871/107879890-6cf3bd80-6ed3-11eb-8fad-1a3a674eed3b.png)
 
 After deploying the website, I used the following link to validate the HTML of my website, which then stated that my code is 100% error-free:
 
-<a href = "https://validator.w3.org/" terget = "_blank">W3C Markup Validation Service</a>
+<a href = "https://validator.w3.org/" target = "_blank">W3C Markup Validation Service</a>
 
 <b>SUMMARY:</b>
-In a nutshell, I was able to create, update, style and deploy a website of my own from scratch, with the help of all the resources made available to me by the course and by the very helpful teaching staff. My website is now available online, and can be accessed using the URL below:
+In a nutshell, I was able to create, update, style and deploy a website of my own from scratch, with the help of all the resources made available to me by the course and by the very helpful teaching staff. My website is now available online, and can be accessed using the link below:
 
 <a href = "https://maryum97.github.io/Unit_02_CSS_Bootstrap/index.html" target = "_blank">My Porfolio</a>
+
+For further information, and for further convenience, I have included the link to my CV here in this README.md file:
+
+<a href = "https://drive.google.com/file/d/1XKfjrojBIY4aSc7Dhf0ZCh0_-v2kiVAI/view?usp=sharing" target = "_blank"></a>
