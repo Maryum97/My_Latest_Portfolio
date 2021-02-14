@@ -18,12 +18,12 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
-    padding: 0.6%;
+    padding: 0.8%;
     width: 100%;
     background-color: rgb(13, 170, 175);
     color: white;
     text-align: center;
-    height: 60px;
+    height: 77px;
     background-repeat: repeat-x;
     background-position: top;
 }
@@ -58,4 +58,8 @@ a:active {
 
 .card-title, .card-text, .phone, .email {
     text-align: center;
+}
+
+.footer-nav-link {
+    color: black;
 }
