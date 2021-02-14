@@ -3,7 +3,7 @@
 <b>TITLE</b>: 02 CSS & Bootstrap: Responsive Portfolio
 
 <b>DESCRIPTION:</b>
-This repository contains the milestone homework assignment for the Coding Bootcamp conducted by the University of Birmingham, featuring my deployed portfolio as a reponsive webpage, available for employers to notice and consider me as a possible candidate for their organisation(s).
+This repository contains the milestone homework assignment for the Coding Bootcamp conducted by the University of Birmingham, featuring my deployed portfolio as a reponsive webpage, available for employers to notice and consider me as a potential candidate for their organisation(s).
 
 The pages created for this homework include three described below:
 
