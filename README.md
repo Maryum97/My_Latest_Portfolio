@@ -30,6 +30,10 @@ Finally, after applying the styling and semantics to the code, the final website
 
 ![My-Portfolio-Page](https://user-images.githubusercontent.com/73832871/107879890-6cf3bd80-6ed3-11eb-8fad-1a3a674eed3b.png)
 
+The following image is a depiction of how I was also able to make the website responsive and clearly legible on other devices and screens, such as Galaxy S5:
+
+![Responsiveness](https://user-images.githubusercontent.com/73832871/107881399-2191dd00-6edc-11eb-8c83-6dc52d84e07e.png)
+
 After deploying the website, I used the following link to validate the HTML of my website, which then stated that my code is nearly 100% error-free:
 
 <a href = "https://validator.w3.org/" target = "_blank">W3C Markup Validation Service</a>
