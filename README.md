@@ -1,4 +1,4 @@
-# Unit_02_My_Porfolio
+# My Porfolio
 
 <b>TITLE</b>: 02 CSS & Bootstrap: Responsive Portfolio
 
@@ -41,7 +41,7 @@ After deploying the website, I used the following link to validate the HTML of m
 <b>SUMMARY:</b>
 In a nutshell, I was able to create, update, style and deploy a website of my own from scratch, with the help of all the resources made available to me by the course and by the very helpful teaching staff. My website is now available online, and can be accessed using the link below:
 
-<a href = "https://maryum97.github.io/Unit_02_My_Responsive_Portfolio/" target = "_blank">My Porfolio</a>
+<a href = "https://maryum97.github.io/My_Latest_Portfolio/" target = "_blank">My Porfolio</a>
 
 For further information, and for further convenience, I have included the link to my CV here in this README.md file:
 
