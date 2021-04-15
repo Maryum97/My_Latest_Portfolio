@@ -8,7 +8,7 @@ This repository contains the milestone homework assignment for the Coding Bootca
 The pages created for this homework include three described below:
 
 1. <b>About Page (index.html):</b>
-    This page is all about myself, Maryum Bokhari, the creator of the portfolio. The page describes my life, achievements, and educational background, while also displaying images and links for the websites I have created for the programming course I am currently attending at UOB. The page also contains my CV, and links to my Github and LinkedIn profiles.
+    This page is all about myself, the creator of the portfolio. The page describes my life, achievements, and educational background, while also displaying images, animations and links for the websites I have created for the programming course I am currently attending at UOB. The page also contains my CV, and links to my Github and LinkedIn profiles, at the bottom of the page.
 
 2. <b>Portfolio (portfolio.html)</b>
     This page is an illustration of different images regarding my background, my educational institutions, and my hobbies and interests, with brief descriptions of each image. It is just to describe my personality more up-close, outside my curriculum and employability aspects.
@@ -30,7 +30,7 @@ Finally, after applying the styling and semantics to the code, the final website
 
 ![My-Portfolio-Page](https://user-images.githubusercontent.com/73832871/107879890-6cf3bd80-6ed3-11eb-8fad-1a3a674eed3b.png)
 
-The following image is a depiction of how I was also able to make the website responsive and clearly legible on other devices and screens, such as Galaxy S5:
+The following image is a depiction of how I was also able to make the website responsive:
 
 ![Responsiveness](https://user-images.githubusercontent.com/73832871/107881399-2191dd00-6edc-11eb-8c83-6dc52d84e07e.png)
 
@@ -45,4 +45,4 @@ In a nutshell, I was able to create, update, style and deploy a website of my ow
 
 For further information, and for further convenience, I have included the link to my CV here in this README.md file:
 
-<a href = "https://drive.google.com/file/d/1XKfjrojBIY4aSc7Dhf0ZCh0_-v2kiVAI/view?usp=sharing" target = "_blank">My CV</a>
+<a href = "https://drive.google.com/file/d/1G3TUuwjQe62lDjh7vVghiI4yFmoD1hr9/view?usp=sharing" target = "_blank">My CV</a>
