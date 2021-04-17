@@ -51,4 +51,6 @@ If you wish to contribute to any of my repositories on Github, or if you have an
 
 This repository is covered by the MIT License:
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ![code-review](https://img.shields.io/badge/code--review-ready%20for%20review-green)
