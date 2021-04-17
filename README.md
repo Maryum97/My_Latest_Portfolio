@@ -46,7 +46,7 @@ For further information, and for further convenience, I have included the link t
 
 <a href = "https://drive.google.com/file/d/1G3TUuwjQe62lDjh7vVghiI4yFmoD1hr9/view?usp=sharing" target = "_blank">My CV</a>
 
-## CONTRIBUTION & CONTACT
+## CONTRIBUTION & CONTACT INFO
 If you wish to contribute to any of my repositories on Github, or if you have any questions, use the contact information I've provided in the 'Contact Me' page in the portfolio; create an account today and create a branch to contribute!
 
 ## LICENSE
