@@ -1,8 +1,6 @@
 # My Porfolio
 
-<b>TITLE</b>: 02 CSS & Bootstrap: Responsive Portfolio
-
-<b>DESCRIPTION:</b>
+## DESCRIPTION
 This repository contains the milestone homework assignment for the Coding Bootcamp conducted by the University of Birmingham, featuring my deployed portfolio as a reponsive webpage (named after myself, Maryum Bokhari, the page logo), available for employers to notice and consider me as a potential candidate for their organisation(s).
 
 The pages created for this homework include three described below:
@@ -16,6 +14,7 @@ The pages created for this homework include three described below:
 3. <b>Contact (contact.html)</b>
     Lastly, this page demonstrates a form for the viewer of my page, in case they wish to get in contact with me. The viewer must fill out the form with their full name and email address, and then submit the form by clicking on the 'Submit' button once. In case of any inconvenience, I have added some of my contact information underneath the form.
 
+## TOOLS USED
 The page was successfully created using the following resources and programming tools:
 
 1. HTML/CSS
@@ -25,7 +24,7 @@ The page was successfully created using the following resources and programming 
 5. StackOverflow
 6. W3C Markup Validation Service
 
-<b>THE 'MY PORTFOLIO' WEBSITE:</b>
+## THE WEBSITE
 Finally, after applying the styling and semantics to the code, the final website has finally been deployed via Github. The screenshot below is a representation of the repository on Github and the actual deployed website:
 
 ![My-Portfolio-Page](https://user-images.githubusercontent.com/73832871/107879890-6cf3bd80-6ed3-11eb-8fad-1a3a674eed3b.png)
@@ -38,7 +37,7 @@ After deploying the website, I used the following link to validate the HTML of m
 
 <a href = "https://validator.w3.org/" target = "_blank">W3C Markup Validation Service</a>
 
-<b>SUMMARY:</b>
+## LINKS & CONCLUSION
 In a nutshell, I was able to create, update, style and deploy a website of my own from scratch, with the help of all the resources made available to me by the course and by the very helpful teaching staff. My website is now available online, and can be accessed using the link below:
 
 <a href = "https://maryum97.github.io/My_Latest_Portfolio/" target = "_blank">My Porfolio</a>
@@ -47,8 +46,10 @@ For further information, and for further convenience, I have included the link t
 
 <a href = "https://drive.google.com/file/d/1G3TUuwjQe62lDjh7vVghiI4yFmoD1hr9/view?usp=sharing" target = "_blank">My CV</a>
 
+## CONTRIBUTION & CONTACT
 If you wish to contribute to any of my repositories on Github, or if you have any questions, use the contact information I've provided in the 'Contact Me' page in the portfolio; create an account today and create a branch to contribute!
 
+## LICENSE
 This repository is covered by the MIT License:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
